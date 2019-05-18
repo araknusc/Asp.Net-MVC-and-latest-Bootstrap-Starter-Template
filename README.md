@@ -1,0 +1,2 @@
+# Asp.Net-MVC-and-latest-Bootstrap-Starter-Template
+Whenever we create a new Asp.Net web project with the latest .Net Framework (4.7.2 at the time of writing this), the project is created with Bootstrap 3 which is annoying because once you update to the latest Bootstrap the pages do not work properly. I thought it's good to share a starter template solution with the startup views upgraded to work with latest Bootstrap.
